@@ -1,6 +1,5 @@
 v0.1
 # <B> Cyber_Security </b>
-# Cyber_Security 
 Cheatlists,
 ## Pysical  Access to Victim device 
 ### USB rubber ducky
@@ -9,6 +8,6 @@ or any other microcontroller which is able to run scripts has has storage for sc
 the microcontroller device imperonates itself as A HID(Human Interface Device ) device  just like a Keyboard and a Mouse 
 and Performs the keystrokes and Mouse clicks 
 Steps to Start
-1) Know which OS the victim is using 
+1) Know which OS the victim is using <br>
 2)What kind of attacks you want to do
 ## Remote Access to victim device
