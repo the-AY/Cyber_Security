@@ -22,7 +22,8 @@ Check whether the Wi-Fi adaptor supports Packet injection
  LINUX 
  1) ip a
  -> check all the curret eth and Wi-Fi devices and select the card of  your choice
- 2) sudo ip link set dev wlp3s0 down
- 3) sudo iwconfig wlp3s0 mode monitor
- 4) sudo iwconfig wlp3s0 mode managed
-    sudo ip link set dev wlp3s0 up
+ 2) sudo ip link set dev (Wi-Fi card name) down
+ 3) sudo iwconfig (Wi-Fi card name) mode monitor
+ if you get an error the adapter does support monitor mode
+ 4) sudo iwconfig (Wi-Fi card name) mode managed
+    sudo ip link set dev (Wi-Fi card name) up
