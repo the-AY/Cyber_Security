@@ -1,7 +1,7 @@
 v0.1
 # <B> Cyber_Security </b>
 Cheatlists,
-## Pysical  Access to Victim device 
+## Physical  Access to Victim device 
 ### USB rubber ducky
  USB rubber Ducky using Ardiuino ATTINY35 or Raspberry pi pico
 or any other microcontroller which is able to run scripts has has storage for scipts 
@@ -9,5 +9,5 @@ the microcontroller device imperonates itself as A HID(Human Interface Device ) 
 and Performs the keystrokes and Mouse clicks 
 Steps to Start
 1) Know which OS the victim is using <br>
-2)What kind of attacks you want to do
+2) What kind of attacks you want to do
 ## Remote Access to victim device
