@@ -10,4 +10,4 @@ and Performs the keystrokes and Mouse clicks
 Steps to Start
 1) Know which OS the victim is using 
 2)What kind of attacks you want to do
-## Remote Access to vivtim device
+## Remote Access to victim device
