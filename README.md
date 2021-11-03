@@ -18,3 +18,11 @@ Steps to Start
 ## Wireless Attacks 
 ### Packet Injection 
 Packet injection Using supported Wi-Fi Adapter ,Packet Injection is also known as "MITM" Man In The Middle" Attack
+Check whether the Wi-Fi adaptor supports Packet injection
+ LINUX 
+ 1) ip a
+ -> check all the curret eth and Wi-Fi devices and select the card of  your choice
+ 2) sudo ip link set dev wlp3s0 down
+ 3) sudo iwconfig wlp3s0 mode monitor
+ 4) sudo iwconfig wlp3s0 mode managed
+    sudo ip link set dev wlp3s0 up
