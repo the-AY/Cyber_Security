@@ -28,3 +28,4 @@ Check whether the Wi-Fi adaptor supports Packet injection
  if you get an error the adapter does support monitor mode <br>
  4) sudo iwconfig (Wi-Fi card name) mode managed <br>
     sudo ip link set dev (Wi-Fi card name) up <br>
+    
