@@ -31,4 +31,4 @@ Check whether the Wi-Fi adaptor supports Packet injection
     sudo ip link set dev (Wi-Fi card name) up <br>
 
 
-    
+  
