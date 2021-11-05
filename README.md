@@ -11,7 +11,7 @@ and Performs the keystrokes and mouse clicks
 Steps to Start
 1) Know which OS the victim is using <br>
 2) What kind of attacks you want to do <br>
-3) Learn a Appropriate scripting Langauge and write the code
+3) Learn a Appropriate scripting Langauge and write the code <br>
 
 ## Remote Access to victim device
 
@@ -28,4 +28,5 @@ Check whether the Wi-Fi adaptor supports Packet injection
  if you get an error the adapter does support monitor mode <br>
  4) sudo iwconfig (Wi-Fi card name) mode managed <br>
     sudo ip link set dev (Wi-Fi card name) up <br>
+    
     
