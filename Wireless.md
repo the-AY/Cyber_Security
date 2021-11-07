@@ -6,10 +6,10 @@ It sends packets to the host and then analyzes the responses in order to produce
 or scanning for open ports. It is one of the most popular reconnaissance tools.
 
 
+
 ### Packet Injection 
 Packet injection Using supported Wi-Fi Adapter , Packet Injection is also known as "MITM" Man In The Middle" Attack .
 
- ### LINUX 
 Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection
  1) ip a <br>
  -> check all the current  eth and Wi-Fi devices and select the card of  your choice <br>
