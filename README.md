@@ -7,6 +7,6 @@ Cheatlists, Getting Started with Cyber Security guide ,Attacks .
 ## Remote Access to victim device
 
 ## Wireless Attacks 
-<a href ="https://github.com/the-AY/Cyber_Security/blob/main/wireless.md" > Wireless Attacks <a>
+<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Wireless.md" > Wireless Attacks <a>
 
   
