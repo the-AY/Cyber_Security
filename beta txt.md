@@ -37,3 +37,12 @@ Autopsy is a digital forensics tool that is used to gather the information form 
 10. Social Engineering Toolkit
 
 Social Engineering Toolkit is a collection of tools that could be used to perform social engineering attacks. These tools use and manipulate human behavior for information gathering. it is a great tool to phish the websites even.
+
+1. Disk Forensics : autopsy (Free)
+- Encase
+- FTK
+- Magnet Axiom
+
+2. Mobile Forensics 
+- oxygen forensic
+- UFED Forensic
