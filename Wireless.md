@@ -21,4 +21,4 @@ Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
  4) $ sudo iwconfig (Wi-Fi card name) mode managed <br>
     $ sudo ip link set dev (Wi-Fi card name) up <br>
 ### Wireshak
-
+### Bettercap

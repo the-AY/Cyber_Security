@@ -2,7 +2,6 @@
 
 ### USB rubber ducky
  USB rubber Ducky using Arduino ATTINY35 or Raspberry pi pico
- <a href ="https://www.google.com/"> Ping Google test </a>
 or any other microcontroller which is able to run scripts has has storage for scripts 
 the micro controller device impersonates itself as A HID(Human Interface Device ) device  just like a Keyboard and a Mouse 
 and Performs the keystrokes and mouse clicks 
