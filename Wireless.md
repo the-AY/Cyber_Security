@@ -23,6 +23,15 @@ Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
 ### Wireshak
 <a href ="https://www.wireshark.org/">Wireshark</a><br>
 Wireshark is a tool used for network protocol analyzing 
-df ff
+
 ### Bettercap 
-hds
+
+### Aircrack-ng 
+
+used for :-
+
+    Monitoring: Packet capture and export of data to text files for further processing by third party tools <br>
+    Attacking: Replay attacks, deauthentication, fake access points and others via packet injection <br>
+    Testing: Checking WiFi cards and driver capabilities (capture and injection) <br>
+    Cracking: WEP and WPA PSK (WPA 1 and 2) <br>
+
