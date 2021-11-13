@@ -13,13 +13,13 @@ The first step to start vulnerability analysis  is know more about the victim's 
 Packet injection Using supported Wi-Fi Adapter , Packet Injection is also known as "MITM" Man In The Middle" Attack .<br>
 
 Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
- 1) $ ip a <br>
+ 1) $   ip a <br>
  -> check all the current  eth and Wi-Fi devices and select the card of  your choice <br>
- 2) $ sudo ip link set dev (Wi-Fi card name) down <br>
- 3) $ sudo iwconfig (Wi-Fi card name) mode monitor <br>
+ 2) $   sudo ip link set dev (Wi-Fi card name) down <br>
+ 3) $   sudo iwconfig (Wi-Fi card name) mode monitor <br>
  if you get an error the adapter does support monitor mode <br>
- 4) $ sudo iwconfig (Wi-Fi card name) mode managed <br>
-    $ sudo ip link set dev (Wi-Fi card name) up <br>
+ 4) $   sudo iwconfig (Wi-Fi card name) mode managed <br>
+    $   sudo ip link set dev (Wi-Fi card name) up <br>
 ### Wireshak
 <a href ="https://www.wireshark.org/">Wireshark</a><br>
 Wireshark is a tool used for network protocol analyzing 
