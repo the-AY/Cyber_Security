@@ -49,3 +49,7 @@ Social Engineering Toolkit is a collection of tools that could be used to perfor
 - UFED Forensic
 
 sshgit (this tools is used to search openly available in github)
+
+what is rootkit 
+how to make rootkits
+how to prevent rootkit attacks
