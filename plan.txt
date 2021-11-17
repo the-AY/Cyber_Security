@@ -4,3 +4,4 @@ screen shots  if available
 
 open source forensic
 https://resources.infosecinstitute.com/topic/free-open-source-computer-forensics-tools/
+https://securitytrails.com/blog/best-ethical-hacking-tools
