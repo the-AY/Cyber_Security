@@ -27,6 +27,10 @@ Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
 Wireshark is a tool used for network protocol analyzing 
 
 ### Bettercap 
+So what is  Bettercap?
+-> Bettercap is a HID (Human Iterface Device) hijacker so basically your Mouse ,keyboard etc.. is a HID device
+bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and IPv4/IPv6 networks.
+
 
 ### Aircrack-ng 
 
