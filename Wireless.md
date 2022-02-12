@@ -14,13 +14,13 @@ Packet injection Using supported Wi-Fi Adapter , Packet Injection is also known 
 
 Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
  1) $ :-
-      ip a 
+     ip a 
  -> check all the current  eth and Wi-Fi devices and select the card of  your choice <br>
-      sudo ip link set dev (Wi-Fi card name) down <br>
-      sudo iwconfig (Wi-Fi card name) mode monitor <br>
+     sudo ip link set dev (Wi-Fi card name) down
+     sudo iwconfig (Wi-Fi card name) mode monitor
  if you get an error the adapter does support monitor mode <br>
-      sudo iwconfig (Wi-Fi card name) mode managed <br>
-      sudo ip link set dev (Wi-Fi card name) up <br>
+     sudo iwconfig (Wi-Fi card name) mode managed
+     sudo ip link set dev (Wi-Fi card name) up
 ### Wireshak
 <a href ="https://www.wireshark.org/">Wireshark</a><br>
 Wireshark is a tool used for network protocol analyzing 
