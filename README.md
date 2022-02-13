@@ -5,6 +5,16 @@ THANK YOU!<br>
 
 # <b> Cyber_Security </b>
 Cheatlists, Getting Started with Cyber Security guide ,Attacks .
+There is not set path for Ethical hacking we make our own path for the hacking <br>
+Hacking or Trying to Hack is ILLEGAL by LAW , this Authors Do no take any responsibility for the loss or harm occured using this resource this is written purely for Educational purposes only , We are White Team hackers discovering the Vuln and reporting it to the developers or the company ( irrespective of the rewards )<br>
+* Set goal what kind of devices are your target<br>
+* Discover the Operating Systems and hardware specification<br>
+* Find the Vuln in the Victim devices<br>
+* Persistance to the device (Maintaining  Access)<br>
+* Clear the digital footprints <br>
+* Creating a backdoor to maintain access<br>
+
+
 
 ## Using Linux Distribution 
 ## Physical  Access to Victim device 
