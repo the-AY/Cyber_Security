@@ -37,7 +37,15 @@ man <toolname> <br>
 
 # OWSAP ZAP <br>
    OWSAP ZAP is a open source tool for automated pen-testing  on a entire website , it can do pen-testing in both frontend as well as backend automated testing ,there is also a manual mode for more detailed infomation regarding a particular website<br>
+<details><summary>Author? Want to Contribute click here!</summary>
+<p>
 
+#### Welocome Authors we are happy to see You contribute! 
+ Please follow the Formmating and instructions 
+  
    # Authors 
    Authors are welcome to contribute please read the  for More information!
    <a href="https://github.com/the-AY/Cyber_Security/blob/main/Authors.md"> Authors Notice </a><br>
+
+</p>
+</details>
