@@ -1,7 +1,15 @@
 V0.1<br>
-## Notification:- 
- As of now this is a Theoritical based manual pratical manual will be updated soon you can star this repository for upcomming update !<br>
-THANK YOU!<br>
+
+<details><summary>Notification</summary>
+<p>
+  
+   ### Notification:- 
+   As of now this is a Theoretical based manual practical based  manual will be updated soon you can star this repository for upcoming update !
+   Authors refer bottom of this page <br>
+   THANK YOU!<br>
+</p>
+</details>
+
 
 # <b> Cyber_Security </b>
 Cheatlists, Getting Started with Cyber Security guide ,Attacks .
