@@ -22,8 +22,9 @@ Prerequisite:- Check whether the Wi-Fi adaptor supports Packet injection<br>
      sudo iwconfig (Wi-Fi card name) mode managed<br>
      sudo ip link set dev (Wi-Fi card name) up<br>
 ### Wireshak
-<a href ="https://www.wireshark.org/">Wireshark</a><br>
-Wireshark is a tool used for network protocol analyzing the network
+
+Wireshark is a tool used for network protocol analyzing the network its a packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education
+<a href ="https://www.wireshark.org/">Wireshark Website</a><br>
 
 
 ### Bettercap 
