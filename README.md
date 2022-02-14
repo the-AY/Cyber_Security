@@ -49,7 +49,7 @@ man <toolname> <br>
 <details><summary>Author? Want to Contribute click here!</summary>
 <p>
 
-#### Welocome Authors we are happy to see You contribute! 
+#### Welcome Authors we are happy to see You contribute! 
  Please follow the Formmating and instructions 
   
    # Authors 
