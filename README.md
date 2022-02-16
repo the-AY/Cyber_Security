@@ -37,6 +37,9 @@ Hacking or Trying to Hack is ILLEGAL by LAW , this Authors Do no take any respon
 man <toolname> <br>
 -> This will open the tools manual and say more about the tool.
 
+# Forensics
+<a href="https://github.com/the-AY/Cyber_Security/blob/main/forensic.md" >Forensics</a>
+
 # Pentesting (preventive)<br>
   IDS()<br>
   IPS()<br>
