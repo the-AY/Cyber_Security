@@ -1,3 +1,12 @@
+# Digital Forensic
+The basic investigation generally consits of five major steps 
+* Identification
+* Data Acquisition
+* Data Recovery
+* Analysis
+* Reporting
+
+
 ## Memory Forensic Tools
 
    * Volatility Suite: This is an open source suite of programs for analyzing RAM, and has support for Windows, Linux and Mac operating systems. It can analyze RAW, Crash, VMWare, and Virtualbox dumps with no issues.<br>
@@ -15,11 +24,22 @@
 
 * Autopsy is a digital forensics tool that is used to gather the information form forensics. Or in other words, this tool is used to investigate files or logs to learn about what exactly was done with the system. It could even be used as a recovery software to recover files from a memory card or a pen drive.
 
+* Encase
+* FTK
+* Magnet Axiom
+* Sleuth Kit
+* PTK
+
 ## Network Forensic Tools
 
 ## Usb Forensics Tools
 
 ## Forensics Imaging Tools
+
+## Data Recovery Tools
+* Foremost
+* Magic Rescue
+* Safe copy 
 
 Autopsy
 
