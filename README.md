@@ -5,7 +5,7 @@ V0.1<br>
   
    ### Notification:- 
    As of now this is a Theoretical based manual practical based  manual will be updated soon you can star this repository for upcoming update !
-   Authors refer bottom of this page <br>
+   Authors who want to contribute  refer bottom of this page <br>
    THANK YOU!<br>
 </p>
 </details>
