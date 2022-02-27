@@ -5,7 +5,7 @@
 It sends packets to the host and then analyzes the responses in order to produce the desired results. It could even be used for host discovery, operating system detection,
 or scanning for open ports. It is one of the most popular reconnaissance tools.
 why we use this tool? <br>
-The first step to start vulnerability analysis  is know more about the victim's System , so to know the  OS , open ports and many more crucial information.<br>
+The first step to start vulnerability analysis  is know more about the victim's System , so to know the  OS , open ports,Firewall configuration  and many more crucial information.<br>
 <a href ="https://nmap.org/"> Nmap Website</a> <br>
 
 
